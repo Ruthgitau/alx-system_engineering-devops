@@ -1,0 +1,2 @@
+#!/bin/bash
+tr 'IA-Za-zI' 'IN-ZA-Mn-za-mI'
